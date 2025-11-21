@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ahmed Sayed</h1>
-<h3 align="center">Full Stack Software Engineer | Python & .NET | React | Problem Solver</h3>
+<h3 align="center">Full Stack Software Engineer | Django & .NET | React | Problem Solver</h3>
 
 ---
 
 ## 👨‍💻 About Me
-Full Stack Software Engineer skilled in **Python, C#, React, SQL, Django, and .NET**.  
-Strong understanding of **software architecture, RESTful APIs, OOP, and database systems**.  
-I enjoy building scalable backend systems and clean, responsive UI.
+Full Stack Software Engineer specializing in **Django, React, and ASP.NET (Web API & MVC)**, with experience in building **secure, scalable RESTful APIs** and **responsive front-end interfaces**.  
+Strong foundation in **Python, C#, JavaScript, SQL**, and software architecture.  
+Skilled in applying **AI techniques** such as image captioning and classification to real-world projects.  
+Passionate about writing **clean, maintainable, high-performance code** to deliver reliable, scalable solutions.
+
 
 - 🎓 **B.Sc. Computer Science**, Ain Shams University (GPA 3.36 – Very Good with Honors)  
 - 💼 Full Stack Python Trainee @ **ITI (2025)**  
