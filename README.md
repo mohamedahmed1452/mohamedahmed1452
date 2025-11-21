@@ -1,66 +1,103 @@
-<h1 align="center">Hi 👋, I'm Mohamed</h1>
-<h3 align="center">.NET Backend Developer | Django Learner | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Mohamed Ahmed Sayed</h1>
+<h3 align="center">Full Stack Software Engineer | Python & .NET | React | Problem Solver</h3>
 
 ---
 
-### 🚀 About Me
-- 🎓 Computer & Information Science graduate – Ain Shams University (2024)  
-- 💼 Interested in **Backend Development**, APIs, Databases, and system architecture  
-- 📱 Built an Android graduation project for **visual assistance** (image captioning + currency recognition)  
-- 🔍 Currently learning **.NET Core, Django, PostgreSQL**  
-- 🎯 Goal: Become a strong backend engineer with clean architecture & cloud skills
+## 👨‍💻 About Me
+Full Stack Software Engineer skilled in **Python, C#, React, SQL, Django, and .NET**.  
+Strong understanding of **software architecture, RESTful APIs, OOP, and database systems**.  
+I enjoy building scalable backend systems and clean, responsive UI.
+
+- 🎓 **B.Sc. Computer Science**, Ain Shams University (GPA 3.36 – Very Good with Honors)  
+- 💼 Full Stack Python Trainee @ **ITI (2025)**  
+- 🧠 Passionate about backend engineering, system design, and clean code  
+- 🚀 Always learning & building — especially Python, Django, ASP.NET, and React  
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
-**Languages:**  
-`C#` • `Python` • `JavaScript` • `SQL`
+### **Languages**
+`Python` • `C#` • `JavaScript` • `TypeScript` • `SQL` • `Bash`
 
-**Backend & Frameworks:**  
-`.NET Core` • `Django` • `EF Core` • `DRF`
+### **Frontend**
+`React.js` • `React TypeScript` • `HTML5` • `CSS3` • `Tailwind CSS` • `Bootstrap`
 
-**Databases:**  
-`SQL Server` • `PostgreSQL` • `SQLite`
+### **Backend**
+`Django` • `ASP.NET MVC` • `REST APIs` • `Entity Framework`
 
-**Tools & DevOps:**  
-`Git` • `Docker` • `Postman` • `Redis`  
+### **Databases**
+`PostgreSQL` • `MySQL` • `SQL Server`
 
-**Frontend (Basic):**  
-`HTML` • `CSS` • `React`
+### **Tools**
+`Git` • `Docker` • `VS Code` • `Postman` • `Linux` • `Figma`
+
+### **ML / Data**
+`NumPy` • `Pandas` • `Scikit-learn` • `Matplotlib`
 
 ---
 
-### 📌 Highlight Projects
+## 📌 Featured Projects
 
-#### 🔹 E-commerce Backend (.NET Core)
-- RESTful API, Authentication, Cart, Orders  
-- EF Core + SQL Server  
-- Clean architecture  
-👉 *[Link to Repo](https://github.com/your-username/project)*
-
-#### 🔹 Visual Assistance App (AI + Android)
+### 🔹 **Blind Assistance App (Android + AI)**
+AI-powered assistant for blind individuals  
 - Image caption generation  
-- Currency classification  
-- TensorFlow models  
-👉 *[Link to Repo]*
-
-#### 🔹 Django Mini Projects  
-- Blog API  
-- Product catalog  
-- Authentication  
-👉 *[Link to Repo]*
+- Currency recognition  
+- Voice-based navigation  
+👉 Repo: https://github.com/mohamedahmed1452/Blind-Assistance-App
 
 ---
 
-### 📊 GitHub Stats
+### 🔹 **E-Commerce Mini Market (Django / Python)**
+- Product management  
+- Authentication  
+- Shopping cart  
+👉 Repo: https://github.com/mohamedahmed1452/E-Commerce-Mini-Market
+
+---
+
+### 🔹 **E-Commerce Website (React)**
+Responsive UI, product pages, search, and state management  
+👉 Repo: https://github.com/mohamedahmed1452/E-Commerce-Using-React
+
+---
+
+### 🔹 **React Dashboard (TypeScript)**
+Dynamic admin dashboard with modular components  
+👉 Repo: https://github.com/mohamedahmed1452/React-App
+
+---
+
+### 🔹 **DBMS System Using Bash Shell Script**
+CLI-based DBMS with CRUD operations  
+👉 Repo: https://github.com/mohamedahmed1452/DBMS-Using-Bash-Shell-Script
+
+---
+
+### 🔹 **Wuzzuf Job Portal Clone (C# + EF Core)**
+- Job listings  
+- User authentication  
+- CRUD operations  
+👉 *(Add GitHub link if uploaded)*
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=dark" height="150"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mohamedahmed1452&show_icons=true&theme=dark" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedahmed1452&theme=dark" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
-📧 Email: your-email@example.com  
-💼 LinkedIn: https://www.linkedin.com/in/your-profile  
+## 🌐 Connect With Me
+- 📧 **Email:** mohamed.sayed01114600710@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/mohamed-ahmed-bb8194219/  
+- 💻 **GitHub:** https://github.com/mohamedahmed1452  
+- 🧩 **Codeforces:** https://codeforces.com/profile/ma01114600710  
+- 🧠 **LeetCode:** https://leetcode.com/u/6HkHmpKegb/
+
+---
+
+⭐ *Feel free to explore my repositories — I’m constantly building new projects and improving my skills!*
