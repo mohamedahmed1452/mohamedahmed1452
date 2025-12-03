@@ -120,12 +120,21 @@ I'm a passionate **Full Stack Software Engineer** with expertise in building rob
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedahmed1452&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mohamed's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedahmed1452&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <!-- Primary GitHub Stats (with cache busting) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedahmed1452&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
+  
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedahmed1452&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedahmed1452&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <!-- GitHub Streak Stats -->
+  <img height="180em" src="https://streak-stats.demolab.com?user=mohamedahmed1452&theme=radical&hide_border=true&fire=DD2727" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedahmed1452&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </p>
 
 ---
