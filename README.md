@@ -190,21 +190,6 @@ I am a passionate **Full Stack Software Engineer** with expertise in building **
 
 **🔗 GitHub:** [View Project →](https://github.com/mohamedahmed1452/E-Commerce-Mini-Market)
 
----
-
-## 📊 **GitHub Statistics**
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedahmed1452&show_icons=true&theme=radical&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedahmed1452&layout=compact&theme=radical&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamedahmed1452&theme=radical&hide_border=true)
-
-</div>
-
----
 
 ## 🏆 **Achievements & Certifications**
 
