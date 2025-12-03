@@ -195,8 +195,8 @@ I am a passionate **Full Stack Software Engineer** with expertise in building **
 
 | Achievement | Issuing Organization | Year |
 |------------|---------------------|------|
-| **Bachelor's in Computer Science (Honors)** | Ain Shams University | 2024 |
 | **Full Stack Python Trainee** | ITI (Information Technology Institute) | 2025 |
+| **Bachelor's in Computer Science (Honors)** | Ain Shams University | 2024 |
 | **Graduation Project Excellence Award** | Ain Shams University | 2024 |
 
 ---
@@ -204,10 +204,10 @@ I am a passionate **Full Stack Software Engineer** with expertise in building **
 ## 📈 **Coding Profiles**
 
 <div align="center">
+  
+[![Codeforces](https://codeforces.com/profile/ma01114600710)
+[![LeetCode](https://leetcode.com/u/6HkHmpKegb/)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/6HkHmpKegb/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ma01114600710)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mohamed_sayed0111)
 
 </div>
 
