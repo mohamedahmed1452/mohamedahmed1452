@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ahmed Sayed</h1>
-<h3 align="center">Full Stack Software Engineer | Django & .NET | React | Problem Solver</h3>
+<h3 align="center">Full Stack Software Engineer | Django • .NET • React</h3>
 
 ---
 
 ## 👨‍💻 About Me
-Full Stack Software Engineer specializing in **Django, React, and ASP.NET (Web API & MVC)**, with experience in building **secure, scalable RESTful APIs** and **responsive front-end interfaces**.  
-Strong foundation in **Python, C#, JavaScript, SQL**, and software architecture.  
-Skilled in applying **AI techniques** such as image captioning and classification to real-world projects.  
-Passionate about writing **clean, maintainable, high-performance code** to deliver reliable, scalable solutions.
+Full Stack Software Engineer with hands-on experience in **Django**, **ASP.NET (Web API & MVC)**, and **React**, building **secure, scalable RESTful APIs** and **modern, responsive UIs**.
 
+I have a strong foundation in **Python, C#, JavaScript, SQL**, and solid understanding of software design principles.  
+I enjoy solving real-world problems using **clean architecture, high-quality code**, and occasionally **AI/ML techniques** like image captioning and classification.
 
-- 🎓 **B.Sc. Computer Science**, Ain Shams University (GPA 3.36 – Very Good with Honors)  
+- 🎓 **B.Sc. Computer Science**, Ain Shams University — *Very Good with Honors (GPA 3.36)*  
 - 💼 Full Stack Python Trainee @ **ITI (2025)**  
-- 🧠 Passionate about backend engineering, system design, and clean code  
-- 🚀 Always learning & building — especially Python, Django, ASP.NET, and React  
+- 🛠 Interested in Backend Engineering, System Design & Distributed Systems  
+- 🚀 Always learning and building with Python, Django, ASP.NET, and React
 
 ---
 
@@ -23,16 +22,16 @@ Passionate about writing **clean, maintainable, high-performance code** to deliv
 `Python` • `C#` • `JavaScript` • `TypeScript` • `SQL` • `Bash`
 
 ### **Frontend**
-`React.js` • `React TypeScript` • `HTML5` • `CSS3` • `Tailwind CSS` • `Bootstrap`
+`React` • `TypeScript` • `HTML5` • `CSS3` • `Tailwind` • `Bootstrap`
 
 ### **Backend**
-`Django` • `ASP.NET MVC` • `REST APIs` • `Entity Framework`
+`Django` • `ASP.NET MVC` • `ASP.NET Web API` • `Entity Framework` • `REST APIs`
 
 ### **Databases**
 `PostgreSQL` • `MySQL` • `SQL Server`
 
 ### **Tools**
-`Git` • `Docker` • `VS Code` • `Postman` • `Linux` • `Figma`
+`Git` • `Docker` • `Postman` • `VS Code` • `Linux` • `Figma`
 
 ### **ML / Data**
 `NumPy` • `Pandas` • `Scikit-learn` • `Matplotlib`
@@ -42,45 +41,43 @@ Passionate about writing **clean, maintainable, high-performance code** to deliv
 ## 📌 Featured Projects
 
 ### 🔹 **Blind Assistance App (Android + AI)**
-AI-powered assistant for blind individuals  
-- Image caption generation  
-- Currency recognition  
-- Voice-based navigation  
-👉 Repo: https://github.com/mohamedahmed1452/Blind-Assistance-App
+AI-powered mobile assistant for visually impaired users  
+- Image captioning  
+- Currency classification  
+- Voice-guided navigation  
+👉 Repo: **https://github.com/mohamedahmed1452/Blind-Assistance-App**
 
 ---
 
-### 🔹 **E-Commerce Mini Market (Django / Python)**
+### 🔹 **E-Commerce Mini Market (Django)**
 - Product management  
-- Authentication  
-- Shopping cart  
-👉 Repo: https://github.com/mohamedahmed1452/E-Commerce-Mini-Market
+- Authentication & authorization  
+- Shopping cart system  
+👉 Repo: **https://github.com/mohamedahmed1452/E-Commerce-Mini-Market**
 
 ---
 
 ### 🔹 **E-Commerce Website (React)**
-Responsive UI, product pages, search, and state management  
-👉 Repo: https://github.com/mohamedahmed1452/E-Commerce-Using-React
+Fully responsive UI with product gallery, search, and state management  
+👉 Repo: **https://github.com/mohamedahmed1452/E-Commerce-Using-React**
 
 ---
 
-### 🔹 **React Dashboard (TypeScript)**
-Dynamic admin dashboard with modular components  
-👉 Repo: https://github.com/mohamedahmed1452/React-App
+### 🔹 **React Admin Dashboard (TypeScript)**
+Interactive dashboard with reusable modules and smooth UI  
+👉 Repo: **https://github.com/mohamedahmed1452/React-App**
 
 ---
 
-### 🔹 **DBMS System Using Bash Shell Script**
-CLI-based DBMS with CRUD operations  
-👉 Repo: https://github.com/mohamedahmed1452/DBMS-Using-Bash-Shell-Script
+### 🔹 **DBMS System (Bash Script)**
+Linux shell–based DBMS implementing CRUD operations via CLI  
+👉 Repo: **https://github.com/mohamedahmed1452/DBMS-Using-Bash-Shell-Script**
 
 ---
 
 ### 🔹 **Wuzzuf Job Portal Clone (C# + EF Core)**
-- Job listings  
-- User authentication  
-- CRUD operations  
-👉 *(Add GitHub link if uploaded)*
+Job listings, authentication, and admin CRUD operations  
+👉 *(Add GitHub link when uploaded)*
 
 ---
 
@@ -102,4 +99,4 @@ CLI-based DBMS with CRUD operations
 
 ---
 
-⭐ *Feel free to explore my repositories — I’m constantly building new projects and improving my skills!*
+⭐ *Thanks for visiting! Feel free to explore my repositories — I'm always building and improving.*  
