@@ -1,4 +1,4 @@
-# 🚀 **Mohamed Ahmed Sayed**  
+#  **Hi I'm Mohamed Ahmed Sayed**  
 ### **Full Stack Software Engineer | .Net & Django Specialist | React Developer**
 
 <p align="center">
@@ -16,7 +16,7 @@
 I am a passionate **Full Stack Software Engineer** specializing in **Django, ASP.NET, and React**. I build **secure, scalable, and high-performance web applications** with clean architecture and modern best practices.
 
 🎓 **Education:** B.Sc. Computer Science, Ain Shams University (GPA 3.36 – Very Good with Honors)  
-🔥 **Current:** Full Stack Python Trainee @ ITI (2025)
+🔥 **Experience:** Full Stack Development Trainee @ ITI (2025)
 
 ---
 
