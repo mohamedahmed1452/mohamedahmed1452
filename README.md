@@ -1,13 +1,8 @@
 #  **Hi I'm Mohamed Ahmed Sayed**  
 ### **Full Stack Software Engineer | .Net & Django Specialist | React Developer**
+🌐 Portfolio: [https://my-portfolio-ebon-omega-71.vercel.app/]
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamedahmed1452&label=Profile%20views&color=FF6B6B&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/mohamedahmed1452?tab=followers">
-    <img src="https://img.shields.io/github/followers/mohamedahmed1452?label=Followers&style=for-the-badge&color=4ECDC4&logo=github" alt="GitHub followers">
-  </a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunies-45B7D1?style=for-the-badge" alt="Hireable" />
-</p>
+
 
 ---
 
