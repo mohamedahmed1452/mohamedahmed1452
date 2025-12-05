@@ -21,8 +21,8 @@ I am a passionate **Full Stack Software Engineer** with expertise in building **
 
 ### **📚 Programming Languages**
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -40,9 +40,8 @@ I am a passionate **Full Stack Software Engineer** with expertise in building **
 
 ### **⚙️ Backend Development**
 <div align="left">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
 </div>
 
@@ -91,6 +90,8 @@ I am a passionate **Full Stack Software Engineer** with expertise in building **
 - Accessibility-focused UX/UI design
 
 **🔗 GitHub:** [View Project →](https://github.com/mohamedahmed1452/Blind-Assistance-App)
+**🌐 Live Demo:** [View Demo →](https://drive.google.com/file/d/1hfDYSVx97Snb1oPFgZb4L2-Y5ESNZ2q0/view)
+
 
 ---
 
@@ -110,7 +111,7 @@ I am a passionate **Full Stack Software Engineer** with expertise in building **
 - Clean, modern UI/UX
 
 **🔗 GitHub:** [View Project →](https://github.com/mohamedahmed1452/E-Commerce-Using-React)  
-**🌐 Live Demo:** [View Demo →](https://ecommerce-demo.example.com)
+**🌐 Live Demo:** [View Demo →](https://e-commerce-using-react-taupe.vercel.app/)
 
 ---
 
@@ -130,7 +131,7 @@ I am a passionate **Full Stack Software Engineer** with expertise in building **
 - Responsive layout design
 
 **🔗 GitHub:** [View Project →](https://github.com/mohamedahmed1452/React-App)  
-**🌐 Live Demo:** [View Demo →](https://admin-demo.example.com)
+**🌐 Live Demo:** [View Demo →](https://react-app-red-five-60.vercel.app/)
 
 ---
 
@@ -149,8 +150,8 @@ I am a passionate **Full Stack Software Engineer** with expertise in building **
 - Comprehensive API documentation
 - Error handling and validation
 
-**🔗 GitHub:** [View Project →](https://github.com/mohamedahmed1452/talabat-api)  
-**📚 API Docs:** [View Documentation →](https://api-docs.example.com)
+**🔗 GitHub:** [View Project →](https://github.com/mohamedahmed1452/Talabat-Ecommerce.APIs)  
+**📚 API Docs:** [View Documentation →](http://mohamed-talabat.runasp.net/index.html)
 
 ---
 
@@ -169,7 +170,7 @@ I am a passionate **Full Stack Software Engineer** with expertise in building **
 - User-friendly command interface
 - Error handling and validation
 
-**🔗 GitHub:** [View Project →](https://github.com/mohamedahmed1452/DBMS-Using-Bash-Shell-Script)
+**🔗 GitHub:** [View Project →](https://github.com/mohamedahmed1452/DBMS-Using-Bash-Shell-Script.)
 
 ---
 
@@ -189,6 +190,8 @@ I am a passionate **Full Stack Software Engineer** with expertise in building **
 - Admin dashboard
 
 **🔗 GitHub:** [View Project →](https://github.com/mohamedahmed1452/E-Commerce-Mini-Market)
+**🌐 Live Demo:** [View Demo →](https://react-app-g9y5.vercel.app/)
+
 
 
 ## 🏆 **Achievements & Certifications**
