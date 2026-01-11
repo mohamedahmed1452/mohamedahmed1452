@@ -3,6 +3,10 @@
 <p>Welcome to my page! </br> I'm <b>Mohamed Ahmed Sayed</b>, a Full Stack Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/323306.png" width="13"/> <b>Cairo, Egypt</b>. <br/>
 I am passionate about building scalable, high-performance web applications with clean architecture.</p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa474-3905-4a80-b561-0d28506553ee.gif" alt="Developer Setup" width="100%" style="border-radius: 15px" />
+</p>
+
 <h3>Things I code with</h3>
 <p>
   <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
@@ -78,7 +82,7 @@ I am passionate about building scalable, high-performance web applications with 
 </ul>
 
 <h3>Welcome to <img src="https://cdn-icons-png.flaticon.com/512/323/323306.png" width="13"/> Cairo!</h3>
-<p><img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa474-3905-4a80-b561-0d28506553ee.gif" /></p>
+<p><img width="100%" style="border-radius: 10px" src="https://images.unsplash.com/photo-1574170072701-5e9848388815?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" alt="Cairo View"/></p>
 <p>I am based in Cairo, Egypt. Open to Full-Time Roles & Freelance Opportunities!</p>
 
 <h3>Where to find me</h3>
