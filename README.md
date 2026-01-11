@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm <b>Mohamed Ahmed Sayed</b>, a Full Stack Software Engineer from  <b>Cairo, Egypt</b>. <br/>
+<p>Welcome to my page! </br> I'm <b>Mohamed Ahmed Sayed</b>, a Full Stack Software Engineer from <b>Cairo, Egypt</b>. <br/>
 I am passionate about building scalable, high-performance web applications with clean architecture.</p>
 
 <p align="center">
@@ -43,11 +43,11 @@ I am passionate about building scalable, high-performance web applications with 
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/mohamedahmed1452/Blind-Assistance-App"><b>Blind Assistant App (AI/Java)</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/mohamedahmed1452/Blind-Assistance-App?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/mohamedahmed1452/Blind-Assistance-App?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/mohamedahmed1452/Blind-Assistance-App?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mohamedahmed1452/Blind-Assistance-App?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/mohamedahmed1452/FoodDelivery.API"><b>Food Delivery Platform (.NET/Angular)</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mohamedahmed1452/FoodDelivery.API?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mohamedahmed1452/FoodDelivery.API?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/mohamedahmed1452/FoodDelivery.API?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mohamedahmed1452/FoodDelivery.API?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/mohamedahmed1452/E-Commerce-Using-React"><b>E-Commerce Platform (React)</b></a></td>
@@ -57,18 +57,18 @@ I am passionate about building scalable, high-performance web applications with 
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mohamedahmed1452/E-Commerce-Using-React?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/mohamedahmed1452/Talabat-Ecommerce.APIs"><b>Talabat Backend API (ASP.NET)</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/mohamedahmed1452/Talabat-Ecommerce.APIs?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/mohamedahmed1452/Talabat-Ecommerce.APIs?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/mohamedahmed1452/Talabat-Ecommerce.APIs?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mohamedahmed1452/Talabat-Ecommerce.APIs?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/mohamedahmed1452/Mini-ERP-System-"><b>Mini ERP System (Django)</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mohamedahmed1452/Mini-ERP-System-?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mohamedahmed1452/Mini-ERP-System-?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/mohamedahmed1452/Mini-ERP-System-?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mohamedahmed1452/Mini-ERP-System-?style=flat-square&labelColor=343b41"/></td>
     </tr>
      <tr>
-      <td><a href="https://github.com/mohamedahmed1452/React-App"><b>Admin Dashboard (React/TS)</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/mohamedahmed1452/React-App?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/mohamedahmed1452/React-App?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/mohamedahmed1452/React-App?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mohamedahmed1452/React-App?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/mohamedahmed1452/Blind-Assistance-App"><b>Blind Assistant App (AI/Java)</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mohamedahmed1452/Blind-Assistance-App?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mohamedahmed1452/Blind-Assistance-App?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/mohamedahmed1452/Blind-Assistance-App?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mohamedahmed1452/Blind-Assistance-App?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
