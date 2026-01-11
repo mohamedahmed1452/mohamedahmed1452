@@ -81,7 +81,7 @@ I am passionate about building scalable, high-performance web applications with 
    <li><b>Coding Profiles</b><br/><i>Active on <a href="https://leetcode.com/u/6HkHmpKegb/">LeetCode</a> and <a href="https://codeforces.com/profile/ma01114600710">Codeforces</a></i></li>
 </ul>
 
-<p><img width="100%" style="border-radius: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Cairo_skyline_2019.jpg/1200px-Cairo_skyline_2019.jpg" alt="Cairo Skyline"/></p>
+
 <p>I am based in Cairo, Egypt. Open to Full-Time Roles & Freelance Opportunities!</p>
 
 <h3>Where to find me</h3>
