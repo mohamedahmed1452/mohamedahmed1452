@@ -75,14 +75,14 @@ I am passionate about building scalable, high-performance web applications with 
 
 <h3>Education & Highlights</h3>
 <ul>
-  <li><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> B.Sc. Computer Science - Ain Shams University</b><br/><i>GPA: 3.36 / 4.00 — Honors Graduate</i></li>
-  <li><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> ITI Full Stack Development Trainee</b><br/><i>Intensive training in modern web technologies</i></li>
+  <li><b>🔥 B.Sc. Computer Science - Ain Shams University</b><br/><i>GPA: 3.36 / 4.00 — Honors Graduate</i></li>
+  <li><b>🔥 ITI Full Stack Development Trainee</b><br/><i>Intensive training in modern web technologies</i></li>
   <li><b>Graduation Project Excellence Award</b><br/><i>Achieved 93% for the AI-powered Blind Assistant App</i></li>
    <li><b>Coding Profiles</b><br/><i>Active on <a href="https://leetcode.com/u/6HkHmpKegb/">LeetCode</a> and <a href="https://codeforces.com/profile/ma01114600710">Codeforces</a></i></li>
 </ul>
 
 <h3>Welcome to <img src="https://cdn-icons-png.flaticon.com/512/323/323306.png" width="13"/> Cairo!</h3>
-<p><img width="100%" style="border-radius: 10px" src="https://images.unsplash.com/photo-1574170072701-5e9848388815?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" alt="Cairo View"/></p>
+<p><img width="100%" style="border-radius: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Cairo_skyline_2019.jpg/1200px-Cairo_skyline_2019.jpg" alt="Cairo Skyline"/></p>
 <p>I am based in Cairo, Egypt. Open to Full-Time Roles & Freelance Opportunities!</p>
 
 <h3>Where to find me</h3>
