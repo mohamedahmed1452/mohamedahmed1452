@@ -81,7 +81,15 @@ I am passionate about building scalable, high-performance web applications with 
    <li><b>Coding Profiles</b><br/><i>Active on <a href="https://leetcode.com/u/6HkHmpKegb/">LeetCode</a> and <a href="https://codeforces.com/profile/ma01114600710">Codeforces</a></i></li>
 </ul>
 
-<h3>📊 Weekly Coding Activity</h3>
+<h3>📈 Activity Overview</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedahmed1452&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedahmed1452&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedahmed1452&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Contribution Graph" width="98%" />
+</div>
+
+<br/>
 <p>I am based in Cairo, Egypt. Open to Full-Time Roles & Freelance Opportunities!</p>
 
 <h3>Where to find me</h3>
