@@ -83,10 +83,10 @@ I am passionate about building scalable, high-performance web applications with 
 
 <h3>📈 Activity Overview</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedahmed1452&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedahmed1452&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedahmed1452&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&v=1" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedahmed1452&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=1" alt="Top Languages" width="48%" />
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedahmed1452&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Contribution Graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedahmed1452&theme=react-dark&hide_border=true&bg_color=0D1117&v=1" alt="Contribution Graph" width="98%" />
 </div>
 
 <br/>
